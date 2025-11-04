@@ -1,9 +1,6 @@
 #include <iostream>
 #include <string>
 
-#include <iostream>
-#include <string>
-
 int main() {
     std::string text;
     char target;
